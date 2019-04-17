@@ -5,11 +5,11 @@ var bot = new Discord.Client;
 client.login("", output);
 bot.login("", output);
 /** @type {!Array} */
-var hqchannels = ["459842150323060736","535628205139296256","536606600291549194"];
+var hqchannels = ["555465891547185173","555465891547185173","555465891547185173"];
 /** @type {!Array} */
-var lochannels = ["514517095996981264","535773736549482506","531377981550231552"];
+var lochannels = ["555465891547185173","555465891547185173","555465891547185173"];
 /** @type {!Array} */
-var bbchannels = ['514517233544986627'];
+var bbchannels = ['555465891547185173'];
 /** @type {string} */
 var outputchannel = "";
 /**
